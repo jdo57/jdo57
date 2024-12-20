@@ -9,7 +9,8 @@ I am currently a student at Cornell University within the College of Engineering
   
   - This upcoming Summer 2025 I will be interning at Wells Fargo as a software engineer under their Technology department!
   
-  Feel free to reach out about any questions, or ideas you would like to collaborate on! Keep on coding! Please contact me through either email: <a href="mailto:jdo57@cornell.edu" target="_blank">jdo57@cornell.edu</a> or <a href="mailto:josueortizordonez10@gmail.com" target="_blank">josueortizordonez10@gmail.com</a>.
+  Feel free to reach out about any questions, or ideas you would like to collaborate on! Keep on coding! 
+  Please contact me through either email: <a href="mailto:jdo57@cornell.edu" target="_blank">jdo57@cornell.edu</a> or <a href="mailto:josueortizordonez10@gmail.com" target="_blank">josueortizordonez10@gmail.com</a>.
 
 ## Experience
 
