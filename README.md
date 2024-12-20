@@ -3,7 +3,7 @@
 ## Background
 I am currently a student at Cornell University within the College of Engineering. I am a computer science and operations research in engineering (ORIE) major, with a physics minor. 
 
-  - At Cornell I am involved in several activities which include being on the Cornell Auto-Boat project team, involved on the ground station subteam and previously worked on microcontroller design.
+  - At Cornell I am involved in several activities which include being on the Cornell Auto-Boat project team within the ground station subteam and previously worked on microcontroller design.
   
   - During Summer 2024 I interned at Ernst & Young (EY) as a software engineer! This gave me my first glimpse within the software engineering world, alongside a look within consulting and other practices!
   
